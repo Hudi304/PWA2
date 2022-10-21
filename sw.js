@@ -1,5 +1,5 @@
 // Change this to your repository name
-var GHPATH = '/github-page-pwa';
+var GHPATH = '/PWA2';
  
 // Choose a different app prefix name
 var APP_PREFIX = 'gppwa_';
@@ -15,6 +15,5 @@ var VERSION = 'version_00';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
-  `${GHPATH}/css/styles.css`,
   `${GHPATH}/js/app.js`
 ]
